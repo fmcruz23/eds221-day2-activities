@@ -29,7 +29,7 @@ mc_wt_5 <- mack_verts$weight[5]
 mc_length_8_20 <- mack_verts$length1[8:20]
 
 mc_dates <- as.vector(mack_verts$sampledate)
-mc_dates
+#mc_dates
 ```
 
 ## Salamander subset
